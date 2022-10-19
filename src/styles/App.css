@@ -1,0 +1,9 @@
+#login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(83, 161, 224, 0.396);
+  width: 400px;
+  height: 200px;
+}
